@@ -1,0 +1,5 @@
+com\leo_sac\filter\AuthFilter.class
+com\leo_sac\controller\LoginController.class
+com\mycompany\leo_sac\JakartaRestConfiguration.class
+com\leo_sac\controller\LogoutController.class
+com\mycompany\leo_sac\resources\JakartaEE10Resource.class
